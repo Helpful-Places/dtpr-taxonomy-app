@@ -1,4 +1,11 @@
 {
+    "dtpr": {
+        "title": "DTPR",
+        "headline": "DTPR is an open-source communication standard that enables transparency, accountability, and control for people. The standard is free for anyone to use.",
+        "mission": {
+            "title": "Mission"
+        }
+    },
     "accountable": "accountable",
     "accountable_headline": "Who's accountable for this",
     "accountable__org": "Organization",
